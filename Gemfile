@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'pry'
 gem 'rake'
+gem 'ruby-jmeter'
 
 group :test do
   gem 'rspec-core'
